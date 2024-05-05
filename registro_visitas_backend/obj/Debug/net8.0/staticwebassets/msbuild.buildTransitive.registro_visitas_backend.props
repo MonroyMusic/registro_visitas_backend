@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\registro_visitas_backend.props" />
+</Project>

@@ -1,0 +1,6 @@
+@registro_visitas_backend_HostAddress = http://localhost:5198
+
+GET {{registro_visitas_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
