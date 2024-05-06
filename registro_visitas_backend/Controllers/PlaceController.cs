@@ -31,6 +31,16 @@ namespace registro_visitas_backend.Controllers
 
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<ResponseDto<PlaceDto>>> GetOneById(Guid id)
+        {
+
+            var placeResponse = await _placeService.GetOneById(id);
+
+            return StatusCode(placeResponse.StatusCode, placeResponse);
+
+        }
+
         [HttpPost]
         public async Task<ActionResult> Create([FromBody] CreatePlaceDto model)
         {

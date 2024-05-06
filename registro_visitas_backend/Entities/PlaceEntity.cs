@@ -24,12 +24,18 @@ namespace registro_visitas_backend.Entities
 
         [Column("rating")]
         [Required]
-        public string Rating { get; set; }
+        [Range(1,5)]
+        public int Rating { get; set; }
 
-        [Column("coords")]
+        [Column("lat")]
         [Required]
         [StringLength(200)]
-        public string Coords { get; set; }
+        public string Latitude { get; set; }
+
+        [Column("long")]
+        [Required]
+        [StringLength(200)]
+        public string Longitude { get; set; }
 
         [Column("user_id")]
         public string UserId { get; set; }

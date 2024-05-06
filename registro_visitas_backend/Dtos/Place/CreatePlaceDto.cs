@@ -25,7 +25,11 @@ namespace registro_visitas_backend.Dtos.Place
 
         [Display(Name = "Coordenadas")]
         [Required(ErrorMessage = "La {0} son requeridas")]
-        public string Coords { get; set; }
+        public string Latitude { get; set; }
+
+        [Display(Name = "Coordenadas")]
+        [Required(ErrorMessage = "La {0} son requeridas")]
+        public string Longitude { get; set; }
 
     }
 

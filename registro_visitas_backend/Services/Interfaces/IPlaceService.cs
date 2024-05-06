@@ -8,5 +8,6 @@ namespace registro_visitas_backend.Services.Interfaces
         Task<ResponseDto<PlaceDto>> CreateAsync(CreatePlaceDto dto);
         Task<ResponseDto<PlaceDto>> DeleteAsync(Guid id);
         Task<ResponseDto<List<PlaceDto>>> GetListAsync(string search = "");
+        Task<ResponseDto<PlaceDto>> GetOneById(Guid id);
     }
 }

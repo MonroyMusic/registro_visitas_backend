@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using registro_visitas_backend.Dtos.Place;
+using registro_visitas_backend.Dtos.Register;
 using registro_visitas_backend.Entities;
 
 namespace registro_visitas_backend.Helpers
@@ -11,6 +12,7 @@ namespace registro_visitas_backend.Helpers
         {
 
             PlaceMaps();
+            RegisterMap();
 
         }
 
@@ -21,6 +23,14 @@ namespace registro_visitas_backend.Helpers
 
             CreateMap<CreatePlaceDto, PlaceEntity>();
 
+
+        }
+
+        private void RegisterMap()
+        {
+
+            CreateMap<CreateRegisterDto, UserEntity>();
+            CreateMap<UserEntity, RegisterDto>();
 
         }
 

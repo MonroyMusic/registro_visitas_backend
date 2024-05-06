@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\place\\createplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\place\\createplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\entities\\placeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\entities\\placeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +23,68 @@
       "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\register\\createregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\register\\createregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\place\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\place\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\place\\createplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\place\\createplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\security\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\security\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\dtos\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\dtos\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\database\\placeregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\database\\placeregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\entities\\placeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\entities\\placeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\interfaces\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\interfaces\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|solutionrelative:registro_visitas_backend\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F0B09BD-90EC-41F6-849E-BE917297CF31}|registro_visitas_backend\\registro_visitas_backend.csproj|d:\\universidad\\lenguajes de programaci\u00F3n\\unidad iii\\reposicion\\registro_visitas_backend\\registro_visitas_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,149 +98,292 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Startup.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Startup.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Startup.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Startup.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:54:48.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Database\\DbSeeder.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\DbSeeder.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Database\\DbSeeder.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:51:30.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:50:16.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:45:12.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\AuthService.cs",
               "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\AuthService.cs",
               "RelativeToolTip": "registro_visitas_backend\\Services\\AuthService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwE4AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:39:29.052Z",
+              "WhenOpened": "2024-05-06T02:57:02.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:37:24.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlaceEntity.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\PlaceEntity.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Entities\\PlaceEntity.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\PlaceEntity.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Entities\\PlaceEntity.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:50:32.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreatePlaceDto.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:46:29.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlaceController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\PlaceController.cs",
-              "RelativeDocumentMoniker": "registro_visitas_backend\\Controllers\\PlaceController.cs",
-              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\PlaceController.cs",
-              "RelativeToolTip": "registro_visitas_backend\\Controllers\\PlaceController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDEAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:31:58.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "PlaceService.cs",
               "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\PlaceService.cs",
               "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\PlaceService.cs",
               "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\PlaceService.cs",
               "RelativeToolTip": "registro_visitas_backend\\Services\\PlaceService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwDAAAAAiAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwIQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T22:11:27.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\PlaceController.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Controllers\\PlaceController.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\PlaceController.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Controllers\\PlaceController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:00:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\RegisterService.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\RegisterService.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Services\\RegisterService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:07:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:20:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\appsettings.Development.json",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\appsettings.Development.json",
+              "RelativeToolTip": "registro_visitas_backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T02:14:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRegisterDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Register\\CreateRegisterDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Register\\CreateRegisterDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Register\\CreateRegisterDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Register\\CreateRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:38:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:54:07.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\PlaceDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Place\\PlaceDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\PlaceDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Place\\PlaceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:54:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "CreatePlaceDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Place\\CreatePlaceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:04:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Security\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginResponseDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Security\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:54:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Register\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Register\\RegisterDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Register\\RegisterDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Register\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:04:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Database\\DbSeeder.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\DbSeeder.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Database\\DbSeeder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:15:39.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaceRegisterDbContext.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\PlaceRegisterDbContext.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Database\\PlaceRegisterDbContext.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Database\\PlaceRegisterDbContext.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Database\\PlaceRegisterDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:15:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:52:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Dtos\\Security\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:12:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaceEntity.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\PlaceEntity.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Entities\\PlaceEntity.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Entities\\PlaceEntity.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Entities\\PlaceEntity.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:58:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Startup.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Startup.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Startup.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Startup.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:25:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\Interfaces\\IRegisterService.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IRegisterService.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Services\\Interfaces\\IRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:35:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPlaceService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IPlaceService.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\Interfaces\\IPlaceService.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IPlaceService.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Services\\Interfaces\\IPlaceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:42:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "registro_visitas_backend\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "registro_visitas_backend\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:41:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "registro_visitas_backend\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Universidad\\Lenguajes de Programaci\u00F3n\\Unidad III\\Reposicion\\registro_visitas_backend\\registro_visitas_backend\\Controllers\\AuthController.cs",
               "RelativeToolTip": "registro_visitas_backend\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:32:16.975Z",
+              "WhenOpened": "2024-05-05T23:20:49.995Z",
               "EditorCaption": ""
             }
           ]

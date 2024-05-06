@@ -142,3 +142,4 @@ D:\Universidad\Lenguajes de Programación\Unidad III\Reposicion\registro_visitas
 D:\Universidad\Lenguajes de Programación\Unidad III\Reposicion\registro_visitas_backend\registro_visitas_backend\obj\Debug\net8.0\registro_visitas_backend.pdb
 D:\Universidad\Lenguajes de Programación\Unidad III\Reposicion\registro_visitas_backend\registro_visitas_backend\obj\Debug\net8.0\registro_visitas_backend.genruntimeconfig.cache
 D:\Universidad\Lenguajes de Programación\Unidad III\Reposicion\registro_visitas_backend\registro_visitas_backend\obj\Debug\net8.0\ref\registro_visitas_backend.dll
+D:\Universidad\Lenguajes de Programación\Unidad III\Reposicion\registro_visitas_backend\registro_visitas_backend\obj\Debug\net8.0\registro_visitas_backend.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("registro_visitas_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc7f9105ea475a403f3121c49c053b00a7c45df")]
 [assembly: System.Reflection.AssemblyProductAttribute("registro_visitas_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("registro_visitas_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using registro_visitas_backend.Database;
 
@@ -11,9 +12,11 @@ using registro_visitas_backend.Database;
 namespace registro_visitas_backend.Migrations
 {
     [DbContext(typeof(PlaceRegisterDbContext))]
-    partial class PlaceRegisterDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505230602_changeCoords")]
+    partial class changeCoords
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -187,8 +190,9 @@ namespace registro_visitas_backend.Migrations
                         .HasColumnType("nvarchar(100)")
                         .HasColumnName("place_name");
 
-                    b.Property<int>("Rating")
-                        .HasColumnType("int")
+                    b.Property<string>("Rating")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("rating");
 
                     b.Property<string>("UserId")

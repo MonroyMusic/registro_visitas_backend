@@ -51,7 +51,7 @@ namespace registro_visitas_backend.Services
 
                 Status = true,
                 StatusCode = 201,
-                Message = "Tarea Creadda Correctamente",
+                Message = "Visita Creadda Correctamente",
                 Data = placeDto
 
             };
@@ -78,6 +78,39 @@ namespace registro_visitas_backend.Services
 
         }
 
+        public async Task<ResponseDto<PlaceDto>> GetOneById(Guid id)
+        {
+
+            var place = await _context.Places.FirstOrDefaultAsync(p => p.Id == id && p.UserId == _USER_ID);
+
+            if (place == null)
+            {
+
+                return new ResponseDto<PlaceDto>
+                {
+
+                    Status = true,
+                    StatusCode = 404,
+                    Message = $"Visita {id} no encontrada"
+
+                };
+                
+            }
+
+            var placeDto = _mapper.Map<PlaceDto>(place);
+
+            return new ResponseDto<PlaceDto>
+            {
+
+                Status = true,
+                StatusCode = 200,
+                Message = $"Visita {placeDto.Id} encontrada",
+                Data = placeDto
+
+            };
+
+        }
+
         public async Task<ResponseDto<PlaceDto>> DeleteAsync(Guid id)
         {
 
@@ -91,7 +124,7 @@ namespace registro_visitas_backend.Services
 
                     StatusCode = 404,
                     Status = false,
-                    Message = "Tarea no encontrada"
+                    Message = "Visita no encontrada"
 
                 };
 
@@ -106,7 +139,7 @@ namespace registro_visitas_backend.Services
 
                 StatusCode = 200,
                 Status = true,
-                Message = "Tarea Borrada con éxito"
+                Message = "Visita Borrada con éxito"
 
             };
 

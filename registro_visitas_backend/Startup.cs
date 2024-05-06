@@ -35,6 +35,7 @@ namespace registro_visitas_backend
 
             services.AddTransient<IAuthService, AuthService>();
             services.AddTransient<IPlaceService, PlaceService>();
+            services.AddTransient<IRegisterService, RegisterService>();
 
             //Automapper
 

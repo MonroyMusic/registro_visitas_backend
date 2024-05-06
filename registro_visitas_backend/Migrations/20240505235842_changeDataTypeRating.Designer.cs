@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using registro_visitas_backend.Database;
 
@@ -11,9 +12,11 @@ using registro_visitas_backend.Database;
 namespace registro_visitas_backend.Migrations
 {
     [DbContext(typeof(PlaceRegisterDbContext))]
-    partial class PlaceRegisterDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240505235842_changeDataTypeRating")]
+    partial class changeDataTypeRating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
