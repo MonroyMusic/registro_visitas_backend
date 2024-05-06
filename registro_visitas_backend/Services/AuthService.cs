@@ -37,7 +37,7 @@ namespace registro_visitas_backend.Services
 
             var result = await _signInManager.PasswordSignInAsync(
                 dto.UserName,
-                dto.Passoword,
+                dto.Password,
                 isPersistent: false,
                 lockoutOnFailure: false
             );

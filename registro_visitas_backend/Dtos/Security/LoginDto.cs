@@ -11,7 +11,7 @@ namespace registro_visitas_backend.Dtos.Security
 
         [Display(Name = "Contraseña")]
         [Required(ErrorMessage = "La {0} es requerido")]
-        public string Passoword { get; set; }
+        public string Password { get; set; }
 
     }
 }
