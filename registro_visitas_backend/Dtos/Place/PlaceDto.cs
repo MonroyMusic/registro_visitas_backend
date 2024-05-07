@@ -11,6 +11,8 @@
 
         public string Latitude { get; set; }
 
+        public int Rating { get; set; }
+
         public string Longitude { get; set; }
 
     }

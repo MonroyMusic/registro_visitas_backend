@@ -21,7 +21,7 @@ namespace registro_visitas_backend.Dtos.Place
 
         [Display(Name = "Calificacion")]
         [Required(ErrorMessage = "La {0} es requerida")]
-        public string Rating { get; set; }
+        public int Rating { get; set; }
 
         [Display(Name = "Coordenadas")]
         [Required(ErrorMessage = "La {0} son requeridas")]
